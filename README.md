@@ -72,4 +72,4 @@ This is an example showing how to create the file(s):
 
 ## Copyright and License
 
-All content is under [MIT License](https://github.com/fschuch/xcompact3d_toolbox_data/blob/main/LICENSE).
+All content is under the [MIT License](https://github.com/fschuch/xcompact3d_toolbox_data/blob/main/LICENSE).
